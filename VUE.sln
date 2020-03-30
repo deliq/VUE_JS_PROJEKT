@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "VUE", "..\..\..\..\..\Users\Dell\source\repos\VUE\VUE.phpproj", "{7EE87290-9206-4E2B-886F-CCF29CEF5339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EE87290-9206-4E2B-886F-CCF29CEF5339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE87290-9206-4E2B-886F-CCF29CEF5339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BB802B2-AAF4-4F57-B39E-D9E993627551}
+	EndGlobalSection
+EndGlobal
